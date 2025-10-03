@@ -33,8 +33,8 @@ Apresentar os conceitos fundamentais do desenvolvimento de software para disposi
     * **Interfaces de Usuário:** `Jetpack Compose`, `Layouts` e gerenciamento de estado.
     * **Recursos do Dispositivo:** Localização, Mapas e Sensores.
 
-## plano meticulosamente estruturado para o curso, dividido em unidades distintas para facilitar o aprendizado e o desenvolvimento do projeto.
-
+## Conteúdo Programático
+O curso está organizado nas seguintes unidades, projetadas para construir o conhecimento de forma progressiva e dar suporte ao desenvolvimento do projeto final.
 
 ### Unidade 1 - Fundamentos de Desenvolvimento Android com Kotlin e Compose
 * **Introdução:** Histórico da plataforma Android, sua arquitetura e o ecossistema moderno.

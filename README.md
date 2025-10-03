@@ -1,0 +1,1 @@
+# Desenvolvimento-de-Software-para-Dispositivos-Moveis-2025.2
